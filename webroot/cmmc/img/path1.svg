@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272.824" height="236.273" viewBox="0 0 272.824 236.273">
+  <g id="Group_11" data-name="Group 11" transform="translate(-597 -580.419)">
+    <path id="Path_41" data-name="Path 41" d="M665.12,816.692H801.532l68.206-118.136L801.532,580.419H665.12L596.914,698.556,665.12,816.692Z" transform="translate(0.086)" fill="#eef2f4"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(15.456)">
+      <path id="Path_73" data-name="Path 73" d="M661.422,665.361c-2.342,5.534-6.811,9.365-12.878,10.11v-1.064c6.279-.744,10.429-5.108,12.452-10.961h1.49v74.6h-1.064V665.361Z" fill="#869096" stroke="#707070" stroke-width="1"/>
+      <path id="Path_74" data-name="Path 74" d="M701.65,715.929v3.656c0,9.684-3.725,17.879-14.474,17.879s-14.58-8.2-14.58-17.879V681.8c0-9.685,3.831-17.88,14.58-17.88s14.474,8.2,14.474,17.88v3.762h1.064V681.8c0-10.324-4.257-18.837-15.538-18.837-11.387,0-15.645,8.513-15.645,18.837v37.781c0,10.324,4.258,18.944,15.645,18.944,11.281,0,15.538-8.62,15.538-18.944v-3.656Z" fill="#869096" stroke="#707070" stroke-width="1"/>
+      <text id="STEPS" transform="translate(736.079 709.626)" fill="#869096" stroke="#707070" stroke-width="1" font-size="25.2" font-family="MicroExtendFLF"><tspan x="-52.479" y="0">STEPS</tspan></text>
+    </g>
+  </g>
+</svg>
